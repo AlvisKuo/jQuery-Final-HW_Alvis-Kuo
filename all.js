@@ -41,7 +41,6 @@ $(document).ready(function () {
       scrollTop: 0
     }, 1000);
    });
-  
-  
+   
 });
 
