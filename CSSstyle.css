@@ -274,13 +274,14 @@
 .contentList{
 
   padding-left: 25px;
-  
+
 }
 
 .contentList li{
 
   list-style-type: disc;
   line-height: 45px;
+
 }
 
 
@@ -333,22 +334,23 @@
 .chart-style span{
 
   color: #00CC99;
+
 }
 
 /* <!-- ------------------------------------form-----------------------------------------------------------> */
 .form{
 
-width: 100%;
-margin: 0 auto; 
-padding: 35px; 
-background-color:#00654C;
-background-image:-webkit-gradient(linear, left top, left bottom, from(#00654C), to(#009772));
-background-image:linear-gradient(#00654C, #009772);
+  width: 100%;
+  margin: 0 auto; 
+  padding: 35px; 
+  background-color:#00654C;
+  background-image:-webkit-gradient(linear, left top, left bottom, from(#00654C), to(#009772));
+  background-image:linear-gradient(#00654C, #009772);
 
--webkit-box-sizing: border-box;
-        box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
 
-position: relative;
+  position: relative;
 
 }
 
@@ -372,9 +374,6 @@ position: relative;
 
   float: right;
   
-  
-  /* margin-right: 20px; */
-
 }
 
 .form-data div{
@@ -433,7 +432,7 @@ position: relative;
 /* <!-- ------------------------------------footer-----------------------------------------------------------> */
 .footer{
 
-margin: 0 auto;
+  margin: 0 auto;
 
 }
 
@@ -456,13 +455,14 @@ margin: 0 auto;
 .contact span{
 
   color: #E12D80;
+
 }
 
 .top{
 
-position: fixed;
-bottom:20px;
-right:30px;
+  position: fixed;
+  bottom:20px;
+  right:30px;
 
 }
 
